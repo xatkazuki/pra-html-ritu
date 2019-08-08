@@ -2,77 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="061a4a8e-50c6-479a-ae24-39afe965d888" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/html5shiv \372 GitHub aFarkas.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Chrome Browser.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Chrome Browser.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/brewing.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/brewing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/drinks.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/drinks.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/grinding.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/grinding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/coffee-cup.png" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/coffee-cup.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/espresso.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/espresso.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/latte-poster.JPG" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/latte-poster.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/index.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/media/latte-poster.JPG" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/media/latte-poster.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/media/latte-pour.mp4" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/media/latte-pour.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/roasting.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/roasting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/styles.css" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Completed-Website/survey.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Completed-Website/survey.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 1 Intro/Notepad++ Home.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 1 Intro/Notepad++ Home.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 2 Basics/first-page.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 2 Basics/first-page.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 2 Basics/golden-gate.tif" afterPath="$PROJECT_DIR$/WorkingFiles/Section 2 Basics/golden-gate.tif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 2 Basics/sample-content.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 2 Basics/sample-content.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 2 Basics/sample-images.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 2 Basics/sample-images.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 2 Basics/sample-lists.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 2 Basics/sample-lists.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 3 Styles/star.gif" afterPath="$PROJECT_DIR$/WorkingFiles/Section 3 Styles/star.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 3 Styles/styles-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 3 Styles/styles-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/golden-gate-sm.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/links-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/links-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/long-page-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/long-page-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/other-pages/linked-page1.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/other-pages/linked-page1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/other-pages/linked-page2.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/other-pages/linked-page2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 4 Links/other-pages/linked-page3.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 4 Links/other-pages/linked-page3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 5 Layout/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/Section 5 Layout/golden-gate-sm.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 5 Layout/layout-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 5 Layout/layout-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 5 Layout/position-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 5 Layout/position-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 6 Tables/tables-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 6 Tables/tables-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 7 Forms/forms-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 7 Forms/forms-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 8 Video/latte-poster.JPG" afterPath="$PROJECT_DIR$/WorkingFiles/Section 8 Video/latte-poster.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 8 Video/latte-pour.mp4" afterPath="$PROJECT_DIR$/WorkingFiles/Section 8 Video/latte-pour.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 8 Video/video-sample.html" afterPath="$PROJECT_DIR$/WorkingFiles/Section 8 Video/video-sample.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/HTML Color Names.URL" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/HTML Color Names.URL" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Section 9 Conclusion/Html Color Codes.URL" afterPath="$PROJECT_DIR$/WorkingFiles/Section 9 Conclusion/Html Color Codes.URL" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/brewing.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/brewing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/drinks.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/drinks.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/grinding.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/grinding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/coffee-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/coffee-berries.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/coffee-cup.png" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/coffee-cup.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/coffee-grinder.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/commercial-roaster.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/espresso.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/espresso.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/fresh-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/roasted-beans.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/images/tiny-coffee-cup.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/index.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/_index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/roasting.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/roasting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Working Files/Website Project/survey.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/survey.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css" afterPath="$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,10 +15,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="top.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="top.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/top.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -101,6 +53,8 @@
         <option value="$PROJECT_DIR$/Working Files/Website Project/index.html" />
         <option value="$PROJECT_DIR$/Working Files/Website Project/style.css" />
         <option value="$PROJECT_DIR$/Working Files/Website Project/nav.html" />
+        <option value="$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html" />
+        <option value="$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css" />
       </list>
     </option>
   </component>
@@ -152,6 +106,17 @@
               <item name="pra-html-ritu" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Working Files" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="pra-html-ritu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pra-html-ritu" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WorkingFiles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pra-html-ritu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pra-html-ritu" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WorkingFiles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WebsiteProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -190,15 +155,16 @@
       <option name="presentableId" value="Default" />
       <updated>1565244532408</updated>
       <workItem from="1565244534010" duration="3748000" />
-      <workItem from="1565251314474" duration="2000" />
+      <workItem from="1565251314474" duration="2382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3750000" />
+    <option name="totallyTimeSpent" value="6130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1283" y="23" width="1538" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22561769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -245,6 +211,22 @@
     <entry file="file://$PROJECT_DIR$/Working Files/Website Project/index.html" />
     <entry file="file://$PROJECT_DIR$/Working Files/Website Project/style.css" />
     <entry file="file://$PROJECT_DIR$/Working Files/Website Project/nav.html" />
+    <entry file="file://$PROJECT_DIR$/WorkingFiles/WebsiteProject/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingFiles/WebsiteProject/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
