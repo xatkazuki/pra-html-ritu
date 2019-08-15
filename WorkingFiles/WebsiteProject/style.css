@@ -2,17 +2,11 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     color: #000;
-
+    margin: 0;
     height: auto;
 }
 
-containar {
-    width: 100%;
-    display: block;
-    padding-inline-start: 8%;
-    padding-inline-end: 8%;
-    max-width: 1600px;
-}
+
 
 nav {
     width: 1600px;
@@ -21,6 +15,7 @@ nav {
     background-color: black;
     padding: 20px 0px;
     text-align: center;
+    margin: 0 auto;
 }
 
 nav a {
@@ -31,12 +26,14 @@ nav a {
 }
 main {
     /* float: none; */
-    width: 1150px;
+    width: 1100px;
     max-width: 100%;
-    padding-inline-start: 14%;
-    padding-inline-end: 14%;
+    /* padding-inline-start: 14%; */
+    /* padding-inline-end: 14%; */
     padding-top: 30px;
     text-align: justify;
+    margin: 0 auto;
+    font-size: 15px;
 }
 main h2{
     color: darkred;
